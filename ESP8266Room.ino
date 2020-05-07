@@ -17,8 +17,8 @@
 #include <ESP8266mDNS.h>
 
 #ifndef STASSID     //请在这里修改接入点和密码 
-#define STASSID "TP-LINK_BEA0"  //WiFi接入点
-#define STAPSK  "14066666"      //接入点密码
+#define STASSID "**********"      //WiFi接入点
+#define STAPSK  "**********"      //接入点密码
 #endif
 
 #include <dht11.h>
